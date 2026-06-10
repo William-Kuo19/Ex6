@@ -1,4 +1,4 @@
-[sl100.pdf](https://github.com/user-attachments/files/28778176/sl100.pdf)
+
 <img width="784" height="413" alt="pic" src="https://github.com/user-attachments/assets/aab979ad-2895-41b5-901c-cd7a527a97c9" />
 # Ex6
 ## 會員登入系統
